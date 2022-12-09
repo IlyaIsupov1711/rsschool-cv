@@ -11,3 +11,16 @@
   * HTML
   * Git & GitHub
   * Blender
+5. Code example:
+function multiplicate(first_num, second_num)
+{
+    return first_num*second_num;
+}
+let res=multiplicate(10,20);
+console.log("Multiplication result: "+res);
+6. Experience
+
+7. Education:
+College: Omutninsky College of Pedagogy, Economics and Law
+Course: Information Systems and Programming
+8. B1(I can speak English, but not so in-depth)
