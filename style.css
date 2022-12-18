@@ -1,0 +1,80 @@
+#menu{
+    color: red;
+    list-style: none;
+    list-style-type: none;
+    line-height: 24px;
+    margin: 0;
+    padding: 4px;
+    background-color: black;
+    margin: -10px -10px -8px -10px;
+    position: fixed;
+    margin-left: 35%;
+    border-radius: 5px;
+}
+#photo{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+#aut{
+    margin-top: -20px;
+    float: right;
+    text-decoration: underline;
+}
+#foot{
+    margin: 0;
+    padding: 4px;
+}
+#foot li{
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+}
+#menu li{
+    display: inline;
+    margin-right: 5px;
+    border: 1px solid black;
+    padding: 3px;
+    background-color: rgb(182, 238, 129);
+    border-radius: 5px;
+}
+#sk{
+    line-height: 30px;
+}
+.me{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 30px;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+#cont_menu{
+    line-height: 30px;
+}
+#cont_menu li{
+    list-style-type: disc;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: purple;
+
+}
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+#year{
+    margin-left: 74%;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+#course{
+    margin-left: 90%;
+}
